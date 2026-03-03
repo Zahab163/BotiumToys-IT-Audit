@@ -88,8 +88,8 @@ This repository contains the **internal IT audit project** for Botium Toys, incl
 BotiumToys-IT-Audit/
 │
 ├── README.md                # Project overview
-├── Scope_Goals.pdf          # Audit scope and goals
-├── Risk_Assessment.pdf      # Detailed risk assessment
+├── Botium Toys_ Scope, goals, and risk assessment report.pdf         # Audit scope and goals & Detailed risk assessment
+├── Control_Categories.pdf    # Complete guideline
 ├── Controls_Checklist.pdf   # Controls & compliance checklist
 └── Recommendations.pdf      # Priority recommendations
 ```
